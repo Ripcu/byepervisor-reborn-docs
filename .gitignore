@@ -1,0 +1,6 @@
+.DS_Store
+*.hop
+*.hop.*
+tool-results/
+scratch/
+*.bin

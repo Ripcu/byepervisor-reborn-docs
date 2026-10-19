@@ -1,0 +1,543 @@
+zR
+libSceFsInternalForVsh.sprx
+Here's a dump of kernel .text base (xotext defeated)!\n
+/user/homebrew/lib/%s
+getenv
+mprotect
+sceSysmoduleLoadModuleInternal: 0x%x\n
+libSceAbstractYoutube.sprx
+libSceAc3Enc.sprx
+libSceMediaFrameworkUtil.sprx
+Unable to load %s\n
+ 
+   
+__isthreaded
+sprintf
+calloc
+libSceAppInstUtil.sprx
+libSceHttp2.sprx
+libSceNpWebApi.sprx
+libSceVdecSvp9.native.sprx
+libSceVenc.sprx
+libSceSysmodule.sprx
+libSceAgcVsh.sprx
+libSceCdlgUtilServer.sprx
+libSceGvMp4Parser.sprx
+libSceOrbisCompat.sprx
+libSceWebKit2.sprx
+%s/%s
+open
+libSceContentListController.sprx
+libSceNet.sprx
+libScePsm.sprx
+libSceSaveData.sprx
+libSceVideoStreamingEngine_sys.sprx
+getargv
+<118>[%s] %s\n
+/system/common/lib/libSceSysmodule.sprx
+libSceAudioIn.sprx
+libSceHidControl.sprx
+libSceSysCore.sprx
+libSceWebmParserMdrw.sprx
+Unable to initialize patches
+strncmp
+libSceIcu.sprx
+libSceNpGameIntent.sprx
+libSceVnaInternal.sprx
+libpng16.sprx
+/data/%x.%02x_hv_%lx.bin
+Byepervisor - Kernel .text first 8 bytes\n%02x %02x %02x %02x %02x %02x %02x %02x
+[!] Failed to install hook (likely too large)\n
+[ERROR] Byepervisor Reborn\nHook install failed :(
+Byepervisor Reborn - Kernel .text first 8 bytes\n%02x %02x %02x %02x %02x %02x %02x %02x
+%s: Not a shared object\n
+sceKernelStopUnloadModule
+libSceAppDbShellCoreClient.sprx
+libSceBackupRestoreUtil.sprx
+libSceMbus.sprx
+libSceShareInternal.native.sprx
+libSceUserService.sprx
+libSceVdecSavc2.native.sprx
+libSceWebKit2Secure.sprx
+[+] Installing hook...\n
+khook: hook already ARMED (state survived)\n
+snprintf
+memcpy
+libSceRegMgr.sprx
+libSceVnaWebsocket.sprx
+libSceVoiceCommand.sprx
+/system_ex/common_ex/lib/%s
+/%s/common/lib/%s
+free
+libSceAjmi.sprx
+libSceEmbeddedTts.sprx
+libSceGpuTrace.sprx
+libScePosixForWebKit.sprx
+libSceSystemLogger2Delivery.sprx
+getargc
+read
+libSceAgcVshDebug.sprx
+libSceAjm.native.sprx
+libSceIdu.sprx
+libSceNpRemotePlaySessionSignaling.sprx
+libSceNpWebApi2.sprx
+libSceSocialScreen.sprx
+libSceSsl.sprx
+libSceSysUtil.sprx
+[+] finding kernel size...\n
+pid:%d
+strcpy
+close
+libSceAgcResourceRegistration.sprx
+libSceDbg.sprx
+libSceGifParser.sprx
+libSceJitBridge.sprx
+libSceLibreSsl.sprx
+libSceMarlin.sprx
+libScePngParser.sprx
+libSceWeb.sprx
+libcairo.sprx
+[+] Detected firmware: %x.%02x\n
+Byepervisor Reborn\nWelcome back, hypervisor is defeated!\nCookie? 0x%lx
+kernel
+/system_ex/priv_ex/lib/%s
+strlen
+libSceBgsStorage.sprx
+libSceCommonDialog.sprx
+libSceSystemTts.sprx
+[+] Disabling xotext + enabling write...\n
+[+] install_resume_hook: setting hook target = 0x%lx (base: 0x%lx), set rsi=0x%lx\n
+/%s/priv/lib/%s
+libSceAgc.sprx
+libSceAvSetting.sprx
+libSceRnpsAppMgr.sprx
+libSceVisionManager.sprx
+[!] Undetected firmware, exiting!\n
+[ERROR] Byepervisor Reborn\nFirmware is not supported :(\n
+vsnprintf
+libSceAsyncStorageInternal.sprx
+libSceDtsEnc.sprx
+libSceLibreSsl3.sprx
+libSceOpusCeltEnc.sprx
+Unable to resolve '%s'\n
+_Strerror
+elf kernel
+malloc
+libSceGpuCapture.sprx
+libSceRemotePlayClientIpc.sprx
+libSceVideoOut.sprx
+[+] kernel size: 0x%lx (%lu MB), dumping from 0x%lx in 0x%x chunks -> %s\n
+Unknown kernel I/O error
+libSceAudiodecCpuDtsHdMa.sprx
+libSceIpmi.sprx
+libSceMat.sprx
+libSceSystemLogger2Game.sprx
+<118>[%s] %s: %s\n
+/%s/common_ex/lib/%s
+libSceNKWeb.sprx
+libSceNKWebKit.sprx
+libSceNetCtl.sprx
+libSceNpSns.sprx
+libSceOpusSilkEnc.sprx
+libSceResourceArbitrator.sprx
+libSceVdecShevc.native.sprx
+__progname
+libSceAbstractTwitter.sprx
+libSceCompositeExt.sprx
+libSceNpManager.sprx
+libSceVcodec.sprx
+|  %s \n
+[!] invalid kernel size 0x%lx\n
+__error
+/%s/priv_ex/lib/%s
+libkernel_web.sprx
+libSceAbstractLocal.sprx
+libSceKbEmulate.sprx
+libSceMetadataReaderWriter.sprx
+libSceRtc.sprx
+Unsupported plt type %x\n
+[+] Regular model detected, HV loader PA = 0x%lx\n
+/data/%x.%02x_kernel_%lx.bin
+Hypervisor is already compromised\n
+getpid
+/system/common/lib/%s
+libSceLoginMgrServer.sprx
+libSceRazorCpu_debug.sprx
+libSceSulphaDrv.sprx
+%02X 
+\n[!] write failed\n
+Unsupported plt relocation type %x\n
+libSceCamera.sprx
+libSceDataTransfer.sprx
+libSceMediaFrameworkInterface.sprx
+lseek
+libkernel_sys.sprx
+libSceAgcDriver.sprx
+libSceBgft.sprx
+libSceNgs2.sprx
+libSceOpusDec.sprx
+libSceVdecCore.native.sprx
+[+] Pro model detected, HV loader PA = 0x%lx\n
+\n[+] dumped 0x%lx bytes (%lu MB) -> %s\n
+Unable to initialize rtld
+libSceAudiodecCpuTrhd.sprx
+libSceDipsw.sprx
+libSceHttpCache.sprx
+libSceJpegParser.sprx
+libSceSystemService.sprx
+[+] Uninstalling hook\n
+Unable to resolve the symbol '__isthreaded'
+strcmp
+libSceAudioSystem.sprx
+libSceEmbeddedTtsCoreG3.sprx
+libSceSystemLogger2.sprx
+[+] Byepervisor reborn v1\n
+\n[!] open(%s) failed\n
+sceKernelDlsym
+strcat
+libSceJemspace.sprx
+libSceJsc.sprx
+libSceNpTcs.sprx
+[+] dumping HV from pa 0x%lx (ka 0x%lx, max 0x%lx) in 0x%x chunks -> %s\n
+environ
+/system/priv/lib/%s
+%s: unable to resolve '%s'\n
+sceKernelLoadStartModule
+libkernel.sprx
+libSceAbstractStorage.sprx
+libSceAvcap2.sprx
+libSceHttp.sprx
+libSceJxr.sprx
+libSceTEEClient.sprx
+Byepervisor Reborn\nDetected regular model (0x%x)\n
+LD_LIBRARY_PATH
+libSceJxrParser.sprx
+libScePad.sprx
+libSceSystemLogger2NativeQueueClient.sprx
+libcurl.sprx
+\r    0x%lx / 0x%lx
+[!] HV pa is 0, skipping HV dump\n
+sceSysmoduleLoadModuleInternal
+libSceImageUtil.sprx
+libicu.sprx
+unable to load '%s'\n
+[!] malloc(0x%lx) failed\n
+.sprx
+%s: unable to load '%s'\n
+libSceAudioOut.sprx
+libSceComposite.sprx
+libSceGLSlimVSH.sprx
+libSceJscCompiler.sprx
+libSceNpCommon.sprx
+libSceVideoOutSecondary.sprx
+Unsupported relocation type %x\n
+libSceAbstractTcs.sprx
+libSceAppChecker.sprx
+libSceDseehx.sprx
+libSceOpusCeltDec.sprx
+Byepervisor Reborn\nDetected pro model (0x%x)\n
+Here's a dump of some HV strings (hvcore+0x19830)!\n
+Edited kernel .text\n
+[+] Hook installed, enter sleep and resume!\n
+Byepervisor Reborn\nEntering rest mode in 3 secs\n
+exit
+<118>[%s] %s
+strerror
+libSceAmpr.sprx
+libSceAudiodecCpuLpcm.sprx
+\xDE\x82*
+-6+
+P\xEA&
+R\x124
+\xF8\x1D%
+0)!
+k\xF64
+\r\x8E\xC1
+\x90d+
+\x19\xE8Q
+_h=
+\x90\x9F\x89
+\xA6[\xA9
+\xE5\xBB\x8B
+o\x9F6
+\xD4\x1F\x97
+\x11\x9F+
+G\xB80
+\xD0\x078
+Q\xEA&
+x\xCB*
+\xDE\x82*
+-6+
+P\xEA&
+R\x124
+\xF8\x1D%
+0)!
+k\xF64
+\r\x8E\xC1
+\x90d+
+\x19\xE8Q
+_h=
+\xA0\x9F\x89
+\xB6[\xA9
+\xF5\xBB\x8B
+o\x9F6
+\xE4\x1F\x97
+\x11\x9F+
+G\xB80
+\xB0\xA66
+Q\xEA&
+x\xCB*
+^\x81*
+\xAD4+
+\xD0\xE8&
+\xD2\x104
+x\x1C%
+\xB0'!
+\xEB\xF44
+\x8D\x8C\xC1
+\x10c+
+\x99\xE6Q
+\xDFf=
+ \x9E\x89
+6Z\xA9
+u\xBA\x8B
+\xEF\x9D6
+d\x1E\x97
+\x91\x9D+
+\xC7\xB60
+0\xA56
+\xD1\xE8&
+\xF8\xC9*
+^\x81*
+\xAD4+
+\xD0\xE8&
+\xD2\x104
+x\x1C%
+\xB0'!
+\xEB\xF44
+\x8D\x8C\xC1
+\x10c+
+\x99\xE6Q
+\xDFf=
+ \x9E\x89
+6Z\xA9
+u\xBA\x8B
+\xEF\x9D6
+d\x1E\x97
+\x91\x9D+
+\xC7\xB60
+0\xA56
+\xD1\xE8&
+\xF8\xC9*
+^\x81*
+\xAD4+
+\xD0\xE8&
+\xD2\x104
+x\x1C%
+\xB0'!
+\xEB\xF44
+\xED\x8C\xC1
+\x10c+
+\x99\xE6Q
+\xDFf=
+ \x9E\x89
+\x96Z\xA9
+u\xBA\x8B
+\xEF\x9D6
+d\x1E\x97
+\x91\x9D+
+\xC7\xB60
+0\xA56
+\xD1\xE8&
+\xF8\xC9*
+^\x81*
+\xAD4+
+\xD0\xE8&
+\xD2\x104
+x\x1C%
+\xB0'!
+\xEB\xF44
+\xED\x8C\xC1
+\x10c+
+\x99\xE6Q
+\xDFf=
+ \x9E\x89
+\x96Z\xA9
+u\xBA\x8B
+\xEF\x9D6
+d\x1E\x97
+\x91\x9D+
+\xC7\xB60
+0\xA56
+\xD1\xE8&
+\xF8\xC9*
+>!%
+={%
+\x91\x12)
+\xA2\x18)
+Rbg
+Yp\xA3
+\x9B\r*
+\xCD%\xB8
+2\x1C)
+\xE9+G
+\xEF]2
+`4\x80
+V\xFB\x9F
+\xF5M\x82
+\xAF\xB0+
+\x14\xC0\x8D
+\x8A\x05\xBE
+'\xD0%
+`/6
+\x92\x12)
+\xD8)%
+>!%
+={%
+\x91\x12)
+\xA2\x18)
+Rbg
+Yp\xA3
+\x9B\r*
+\xCD%\xB8
+2\x1C)
+\xE9+G
+\xEF]2
+`4\x80
+V\xFB\x9F
+\xF5M\x82
+\xAF\xB0+
+\x14\xC0\x8D
+\x8A\x05\xBE
+'\xD0%
+`/6
+\x92\x12)
+\xD8)%
+T\xD2\xB6\x03
+X\xD2\xB6\x03
+\x0C\xBE\xB6\x03
+0u5
+\x10CT
+\xD0\xC2C
+\xD0\xE0\xC9
+\xF8\x871
+\xB8\xCF\xB6\x03
+P\xDB\x02
+\x83\xBD\x03
+\xE0\xAF\xBD\x03
+(0\x08
+`*\x08
+T\xD2\xB6\x03
+X\xD2\xB6\x03
+\x0C\xBE\xB6\x03
+0u5
+\x10CT
+\xD0\xC2C
+\xD0\xE0\xC9
+\xF8\x871
+\xB8\xCF\xB6\x03
+P\xDB\x02
+\x83\xBD\x03
+\xE0\xAF\xBD\x03
+(0\x08
+`*\x08
+T\xD2\xB6\x03
+X\xD2\xB6\x03
+\x0C\xBE\xB6\x03
+\xB0s5
+\x90AT
+P\xC1C
+P\xDF\xC9
+x\x861
+\xB8\xCF\xB6\x03
+P\xDB\x02
+\x83\xBD\x03
+\xE0\xAF\xBD\x03
+(0\x08
+`*\x08
+T\xD2\xB6\x03
+X\xD2\xB6\x03
+\x0C\xBE\xB6\x03
+\xB0s5
+\x90AT
+P\xC1C
+P\xDF\xC9
+x\x861
+\xB8\xCF\xB6\x03
+P\xDB\x02
+\x83\xBD\x03
+\xE0\xAF\xBD\x03
+(0\x08
+`*\x08
+T\xD2\xB6\x03
+X\xD2\xB6\x03
+\x0C\xBE\xB6\x03
+\xB0s5
+\x90AT
+P\xC1C
+\xB0\xDF\xC9
+x\x861
+\xB8\xCF\xB6\x03
+P\xDB\x02
+\x83\xBD\x03
+\xE0\xAF\xBD\x03
+(0\x08
+`*\x08
+T\xD2\xB6\x03
+X\xD2\xB6\x03
+\x0C\xBE\xB6\x03
+\xB0s5
+\x90AT
+P\xC1C
+\xB0\xDF\xC9
+x\x861
+\xB8\xCF\xB6\x03
+P\xDB\x02
+\x83\xBD\x03
+\xE0\xAF\xBD\x03
+(0\x08
+`*\x08
+\x94\x92\xB2\x03
+\x98\x92\xB2\x03
+L~\xB2\x03
+\x80\x8B*
+\xE0\xBBJ
+\x10\n9
+ \xA6\xC0
+\x08\x8D&
+\xF8\x8F\xB2\x03
+\x90\xD2\x02
+C\xB9\x03
+\xE0o\xB9\x03
+(0\x08
+`*\x08
+\x94\x92\xB2\x03
+\x98\x92\xB2\x03
+L~\xB2\x03
+\x80\x8B*
+\xE0\xBBJ
+\x10\n9
+ \xA6\xC0
+\xD8\x87&
+\xF8\x8F\xB2\x03
+\x90\xD2\x02
+C\xB9\x03
+\xE0o\xB9\x03
+(0\x08
+`*\x08
+\x01#Eg\x89\xAB\xCD\xEF\xFE\xDC\xBA\x98vT2\x10Q\x8Dd\xA65\xDE\xD8\xC1\xE6\xB09\xB1\xC3\xE5R0ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-
+@
+H
+\xBC
+\x02
+\x04
+\x08
+\x0C
+\x14
+\x18
+0
+X
+`
+\x80
+\x10
+\x18
